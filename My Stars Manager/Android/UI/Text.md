@@ -5,8 +5,8 @@
     star:2000+
 
     俗名：可垂直跑、可水平跑的跑马灯；学名：可垂直翻、可水平翻的翻页公告
-    1.github:https://github.com/sunfusheng/MarqueeView
-    2.官网: http://sunfusheng.com/
+    1.github:<http://github.com/sunfusheng/MarqueeView>
+    2.官网: <http://sunfusheng.com/>
 
 ## 二.ScrollTextView  
 
