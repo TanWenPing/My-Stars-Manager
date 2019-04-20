@@ -43,7 +43,7 @@
     A Custom TextView with expanded Text(带有折叠文本内容的自定义TextView)
 ![图片](https://github.com/bravoborja/ReadMoreTextView/blob/master/screenshots/collapsed.png)
 
-* **1300+**
+* **Star:1300+**
 * **GitHub：**<https://github.com/bravoborja/ReadMoreTextView>
 
 ## HTextView
@@ -52,7 +52,7 @@
 
 ![图片](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo3.gif)
 
-* **4500+**
+* **Star:4500+**
 * **GitHub：**<https://github.com/hanks-zyh/HTextView>
 
 ## ticker
@@ -61,5 +61,5 @@
 
 ![图片](https://github.com/robinhood/ticker/blob/master/assets/ticker_main.gif)
 
-* **3400+**
+* **Star:3400+**
 * **GitHub：**<https://github.com/robinhood/ticker>
