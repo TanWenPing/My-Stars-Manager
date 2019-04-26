@@ -6,3 +6,17 @@
 
 * **Star：5500+**
 * **GitHub：**<https://github.com/aalansehaiyang/technology-talk>
+
+## JavaGuide
+
+    【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 https://gitee.com/SnailClimb/JavaGuide
+
+* **Star：37100+**
+* **GitHub：**<https://github.com/Snailclimb/JavaGuide>
+
+## interviews
+
+    Everything you need to know to get the job.
+
+* **Star：34000+**
+* **GitHub：**<https://github.com/kdn251/interviews>
