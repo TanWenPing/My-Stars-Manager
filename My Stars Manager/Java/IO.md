@@ -2,7 +2,8 @@
 
 ## okio
 
-    star:6000+
     java i/o api
-    1.github:https://github.com/square/okio
-    2.官网:https://square.github.io/okio/2.x/okio/jvm/okio/index.html
+
+* **Star:6000+**
+* **GitHub:** <https://github.com/square/okio>
+* **官网:** <https://square.github.io/okio/2.x/okio/jvm/okio/index.html>
