@@ -22,3 +22,10 @@
 * **Star：16600+**
 * **GitHub：**<https://github.com/reduxjs/react-redux>
 * **官网：**<https://react-redux.js.org>
+
+##redux-thunk
+
+    Thunk middleware for Redux
+
+* **Star：12100+**
+* **GitHub：**<https://github.com/reduxjs/redux-thunk>
